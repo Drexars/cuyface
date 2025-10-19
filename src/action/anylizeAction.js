@@ -35,7 +35,7 @@ export async function anylizeAction(prevState, formData) {
             <li>Emosi dominan (mis. senyum tipis/ceria/tenang/fokus)</li>
             <li>Arah pandang & gestur (menghadap kamera/menoleh; bahu rileks/tegang)</li>
             <li>Nuansa umum (rapi/kasual/enerjik)</li>
-            <li>Karakter fisik (Belum Mandi, Berisi, Gak Pernah Tidur)</li>
+            <li>Karakter fisik (Belum Mandi, Berisi, Gak Pernah Tidur, Kurus)</li>
             <li>Tebak MBTI Personal (INTJ, ENTJ, INTP, dan lainnya) dengan penjelasannya</li>
         </ul>
         </section>
