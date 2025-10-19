@@ -249,7 +249,7 @@ function Camera() {
                     />
                 ) : (
                     <div className='bg-gray-500 p-4'>
-                        <p className='font-semibold text-white'>Ambil Foto Kamu Lalu Tekan Ramalkan! Agar Kamu tau Kondisi Kamu Terkini</p>
+                        <p className='font-semibold text-white'>Ambil Foto Kamu Lalu Tekan Ramalkan! Agar Kamu Tau Kondisi Kamu Terkini</p>
                     </div>
                 )}
             </div>
